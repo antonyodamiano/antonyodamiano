@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello everyone, I'm *Antonio* but you can call me *Anthony*.Class 98, graduated at *Università degli Studi ROMA TRE* and I'm about to graduate with an *Artificial Intelligence MSc* at the University of *Bologna*.
+Hello everyone, I'm *Antonio* but you can call me *Anthony*. Class 98, graduated at *Università degli Studi ROMA TRE* and I'm about to graduate with an *Artificial Intelligence MSc* at the University of *Bologna*.
 
 
